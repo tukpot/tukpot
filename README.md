@@ -4,7 +4,8 @@
 
 Here are some ideas to get you started:
 ## 📊 My Github stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tukpot&show_icons=true&theme=aura_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tukpot&show_icons=true&theme=aura_dark)](https://github-readme-stats.vercel.app/api?username=tukpot&show_icons=true&theme=aura_dark&count_private=true
+)
 
 - 🔭 I’m currently working on Snappy Commerce
 - 🌱 I’m currently learning Computer Science at college. Currently working with Node.js and Vue.js at work.
